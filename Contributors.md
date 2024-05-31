@@ -63,6 +63,7 @@
 - ***[Msganaw Wondemeneh ](https://github.com/msgewendim)***
 - Rachel W
 - BlackCro
+- Abubaker Alsiddiq
 - Camilo Arango
 - Ayman Abdalla
 - Larry Jones
